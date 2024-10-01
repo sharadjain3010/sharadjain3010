@@ -1,18 +1,8 @@
 ## Hi there 👋
-
-<!--
-**sharadjain3010/sharadjain3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Lead Software Engineer
 - 🌱 I’m currently learning Server side JavaScript
 - 💬 Ask me about everything JavaScript
 - 📫 How to reach me: You can reach me via below Social handles
--->
-# 💫 About Me:
-I'm currently working as Lead Software Engineer<br>I'm on a mission to find next big idea<br>I'm currently learning Server side JavaScript<br>Ask me about everything JavaScript
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharad-jain-304369b7/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sharadokey) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/sharadjain) 
